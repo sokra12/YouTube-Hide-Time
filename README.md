@@ -1,4 +1,4 @@
-README English Guide How to Install the Extension Manually (Google Chrome / Edge) If you downloaded the extension files as a folder from this GitHub repository, you can easily install it by following these steps:
+README How to Install the Extension Manually (Google Chrome / Edge) If you downloaded the extension files as a folder from this GitHub repository, you can easily install it by following these steps:
 
 Download the Files:
 
